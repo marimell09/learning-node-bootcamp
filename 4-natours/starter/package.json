@@ -4,11 +4,16 @@
   "description": "Learning node, express nd mongoDB",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:dev": "nodemon server.js",
+    "start:prod": "set NODE_ENV=production && nodemon server.js"
   },
   "author": "Mariana Mello",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "g": "^2.0.1",
+    "http-server": "^0.12.1",
+    "morgan": "^1.9.1"
   }
 }
