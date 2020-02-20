@@ -1,3 +1,9 @@
+# THis is Mariana Mello implementation of the Jonas's Complete Bootcamp 2020 for Node, Mongo and Express on Udemy.
+
+The code implemented by me can be found in the Starter folder of each section.
+
+Following, is the official Read Me.
+
 # Course Material and FAQ for my Complete Node.js, Express and MongoDB Bootcamp
 
 This repo contains starter files and the finished project files for all the projects contained in the course (complete repo size is **288MB**).
