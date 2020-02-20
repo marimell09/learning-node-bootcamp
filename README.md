@@ -1,4 +1,6 @@
-# THis is Mariana Mello implementation of the Jona's Complete Bootcamp 2020 for Node, Mongo and Express on Udemy.
+# THis is Mariana Mello implementation of the Jonas's Complete Bootcamp 2020 for Node, Mongo and Express on Udemy.
+
+The code can be found in the Starter folder of each section.
 
 Following, is the official Read Me.
 
